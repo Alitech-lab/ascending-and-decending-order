@@ -1,0 +1,8 @@
+C:\Users\ali\source\repos\ascending and decending order\obj\Debug\ascending and decending order.csproj.AssemblyReference.cache
+C:\Users\ali\source\repos\ascending and decending order\obj\Debug\ascending and decending order.csproj.SuggestedBindingRedirects.cache
+C:\Users\ali\source\repos\ascending and decending order\obj\Debug\ascending and decending order.csproj.CoreCompileInputs.cache
+C:\Users\ali\source\repos\ascending and decending order\bin\Debug\ascending and decending order.exe.config
+C:\Users\ali\source\repos\ascending and decending order\bin\Debug\ascending and decending order.exe
+C:\Users\ali\source\repos\ascending and decending order\bin\Debug\ascending and decending order.pdb
+C:\Users\ali\source\repos\ascending and decending order\obj\Debug\ascending and decending order.exe
+C:\Users\ali\source\repos\ascending and decending order\obj\Debug\ascending and decending order.pdb
